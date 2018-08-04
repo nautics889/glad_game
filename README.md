@@ -1,5 +1,6 @@
 # Glad Arcade the game
 Simple game for PC in memory of Denis Sukhachev
+---
 ![alt text](http://i.piccy.info/i9/bd051a17a277152b4cb1418e8cac1bef/1533419147/86889/1254193/11.jpg)
 ## Requirements
 • Python 3 (3.5 or higher)
