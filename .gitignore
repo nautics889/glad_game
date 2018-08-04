@@ -1,4 +1,6 @@
 *.sqlite3
 *.db
+*.spec
 */__pycache__/*
 __pycache__/
+build/
