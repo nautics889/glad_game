@@ -22,5 +22,7 @@ Finally run main.py to start the game:
 python main.py
 ```
 Also you can download .exe file:
+
 https://drive.google.com/file/d/11ha5650arwvfbPLqRCV4cwSRVsHEO_Lr/view?usp=sharing
+
 Of course previously check it on www.virustotal.com
