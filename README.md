@@ -20,6 +20,10 @@ python3 -m pip install -U pygame --user
 ```code
 pip install pysqlite3
 ```
+• Clone repository from github (if git is installed):
+```code
+git clone https://github.com/nautics889/glad_game.git
+```
 Finally run main.py to start the game:
 ```code
 python main.py
